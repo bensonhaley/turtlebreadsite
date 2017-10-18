@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE turtlexml SYSTEM "turtlexml.dtd">
+<?xml-stylesheet type="text/css" href="bakery.css"?>
+
+<FirstTag>
+    This is our first XML file
+</FirstTag>
