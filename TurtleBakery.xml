@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE turtlexml SYSTEM "turtlexml.dtd">
-<?xml-stylesheet type="text/css" href="bakery.css"?>
-
-<FirstTag>
-    This is our first XML file
-</FirstTag>
+<!DOCTYPE BakeryItemList SYSTEM "bakeryitemlist.dtd">
+<BakeryItemList>
+    <SectionName>Pastries</SectionName>
+      <List>
+        <Item>
+          <Name>Plain Croissant</Name>
+          <Price>2.49</Price>
+          <Ingredients></Ingredients>
+        </Item>
+        <Item>
+          <Name>Chocolate Croissant</Name>
+          <Price>2.99</Price>
+          <Ingredients></Ingredients>
+        </Item>
+      </List>
+</BakeryItemList>
