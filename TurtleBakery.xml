@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE BakeryItemList SYSTEM "bakeryitemlist.dtd">
 <BakeryItemList>
-    <SectionName>Pastries</SectionName>
+    <SectionName>Cookies</SectionName>
       <List>
         <Item>
-          <Name>Plain Croissant</Name>
+          <Name>Chocolate Chip</Name>
           <Price>2.49</Price>
           <Ingredients></Ingredients>
         </Item>
         <Item>
-          <Name>Chocolate Croissant</Name>
-          <Price>2.99</Price>
+          <Name>Oatmeal Raisin</Name>
+          <Price>2.49</Price>
+          <Ingredients></Ingredients>
+        </Item>
+        <Item>
+          <Name>Ginger Molasses</Name>
+          <Price>2.49</Price>
+          <Ingredients></Ingredients>
+        </Item>
+        <Item>
+          <Name>PB Chocolate Chunk</Name>
+          <Price>2.49</Price>
+          <Ingredients></Ingredients>
+        </Item>
+        <Item>
+          <Name>Double Chocolate Chunk</Name>
+          <Price>2.49</Price>
+          <Ingredients></Ingredients>
+        </Item>
+        <Item>
+          <Name>Palmier</Name>
+          <Price>2.49</Price>
           <Ingredients></Ingredients>
         </Item>
       </List>
