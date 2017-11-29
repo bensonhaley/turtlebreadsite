@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE BakeryItemList SYSTEM "bakeryitemlist.dtd">
 <BakeryItemList>
-      <SectionName>Cookies</SectionName>
+      <SectionName>Pastries</SectionName>
       <List>
         <Item>
-          <Name>Chocolate Chip</Name>
-          <Price>&#36;2.49</Price>
-          <Ingredients>A, B, C</Ingredients>
+          <Name>Plain Croissant</Name>
+          <Price>&#36;2.99</Price>
+          <Ingredients>Unbleached white flour, water, milk, sugar, butter, salt, yeast, egg wash</Ingredients>
         </Item>
         <Item>
-          <Name>Oatmeal Raisin</Name>
-          <Price>&#36;2.49</Price>
-          <Ingredients>A, B, C</Ingredients>
+          <Name>Chocolate Croissant</Name>
+          <Price>&#36;2.99</Price>
+          <Ingredients>Unbleached white flour, water, milk, sugar, butter, salt, yeast, egg wash, chocolate</Ingredients>
         </Item>
         <Item>
-          <Name>Ginger Molasses</Name>
-          <Price>&#36;2.49</Price>
-          <Ingredients>A, B, C</Ingredients>
+          <Name>Cream Cheese Danish</Name>
+          <Price>&#36;3.49</Price>
+          <Ingredients>Unbleached white flour, water, milk, sugar, butter, salt, yeast, egg wash, cream cheese filling (cream cheese, sugar, butter, vanilla extract, pasteurized egg yolks, salt, powdered sugar)</Ingredients>
         </Item>
         <Item>
-          <Name>PB Chocolate Chunk</Name>
-          <Price>&#36;2.49</Price>
-          <Ingredients>A, B, C</Ingredients>
+          <Name>Cherry Turnover</Name>
+          <Price>&#36;3.99</Price>
+          <Ingredients>Unbleached white flour, water, milk, sugar, butter, salt, yeast, egg wash, cherry filling (tart cherries, cherry juice, lemon juice, water, sugar, cornstarch, kirsch, butter, tapioca starch, salt), coarse sugar</Ingredients>
         </Item>
         <Item>
-          <Name>Double Chocolate Chunk</Name>
-          <Price>&#36;2.49</Price>
-          <Ingredients>A, B, C</Ingredients>
+          <Name>Cinnamon Raisin Roll</Name>
+          <Price>&#36;3.49</Price>
+          <Ingredients>Unbleached white flour, water, milk, sugar, butter, salt, yeast, Thompson raisins, cinnamon, cloves, egg wash cream cheese icing (cream cheese, powdered sugar, butter, vanilla, cream)</Ingredients>
         </Item>
         <Item>
-          <Name>Palmier</Name>
-          <Price>&#36;2.49</Price>
-          <Ingredients>A, B, C</Ingredients>
+          <Name>Bran Muffin</Name>
+          <Price>&#36;2.99</Price>
+          <Ingredients>Water, sugar, wheat bran, unbleached white flour, Thompson raisins, honey, eggs, canola oil, vanilla, salt, baking soda</Ingredients>
         </Item>
       </List>
 </BakeryItemList>
