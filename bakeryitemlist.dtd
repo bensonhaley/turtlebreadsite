@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!ELEMENT BakeryItemList (SectionName, List)>
-<!ELEMENT SectionName (#PCDATA)>
-<!ELEMENT List (Item*)>
-<!ELEMENT Item (Name, Price, Ingredients)>
-<!ELEMENT Name (#PCDATA)>
-<!ELEMENT Price (#PCDATA)>
-<!ELEMENT Ingredients (#PCDATA)>
