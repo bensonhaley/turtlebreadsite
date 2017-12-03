@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE BakeryItemList SYSTEM "bakeryitemlist.dtd">
 <BakeryItemList>
+<<<<<<< HEAD
     <SectionName>Pastries</SectionName>
       <List>
         <Item>
@@ -12,6 +13,39 @@
           <Name>Chocolate Croissant</Name>
           <Price>2.99</Price>
           <Ingredients></Ingredients>
+=======
+      <SectionName>Pastries</SectionName>
+      <List>
+        <Item>
+          <Name>Plain Croissant</Name>
+          <Price>&#36;2.99</Price>
+          <Ingredients>Unbleached white flour, water, milk, sugar, butter, salt, yeast, egg wash</Ingredients>
+        </Item>
+        <Item>
+          <Name>Chocolate Croissant</Name>
+          <Price>&#36;2.99</Price>
+          <Ingredients>Unbleached white flour, water, milk, sugar, butter, salt, yeast, egg wash, chocolate</Ingredients>
+        </Item>
+        <Item>
+          <Name>Cream Cheese Danish</Name>
+          <Price>&#36;3.49</Price>
+          <Ingredients>Unbleached white flour, water, milk, sugar, butter, salt, yeast, egg wash, cream cheese filling (cream cheese, sugar, butter, vanilla extract, pasteurized egg yolks, salt, powdered sugar)</Ingredients>
+        </Item>
+        <Item>
+          <Name>Cherry Turnover</Name>
+          <Price>&#36;3.99</Price>
+          <Ingredients>Unbleached white flour, water, milk, sugar, butter, salt, yeast, egg wash, cherry filling (tart cherries, cherry juice, lemon juice, water, sugar, cornstarch, kirsch, butter, tapioca starch, salt), coarse sugar</Ingredients>
+        </Item>
+        <Item>
+          <Name>Cinnamon Raisin Roll</Name>
+          <Price>&#36;3.49</Price>
+          <Ingredients>Unbleached white flour, water, milk, sugar, butter, salt, yeast, Thompson raisins, cinnamon, cloves, egg wash cream cheese icing (cream cheese, powdered sugar, butter, vanilla, cream)</Ingredients>
+        </Item>
+        <Item>
+          <Name>Bran Muffin</Name>
+          <Price>&#36;2.99</Price>
+          <Ingredients>Water, sugar, wheat bran, unbleached white flour, Thompson raisins, honey, eggs, canola oil, vanilla, salt, baking soda</Ingredients>
+>>>>>>> master
         </Item>
       </List>
 </BakeryItemList>
