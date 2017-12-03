@@ -2,6 +2,7 @@
 <!DOCTYPE BakeryItemList SYSTEM "bakeryitemlist.dtd">
 <BakeryItemList>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <SectionName>Pastries</SectionName>
       <List>
         <Item>
@@ -14,6 +15,8 @@
           <Price>2.99</Price>
           <Ingredients></Ingredients>
 =======
+=======
+>>>>>>> master
       <SectionName>Pastries</SectionName>
       <List>
         <Item>
@@ -45,6 +48,9 @@
           <Name>Bran Muffin</Name>
           <Price>&#36;2.99</Price>
           <Ingredients>Water, sugar, wheat bran, unbleached white flour, Thompson raisins, honey, eggs, canola oil, vanilla, salt, baking soda</Ingredients>
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
         </Item>
       </List>
